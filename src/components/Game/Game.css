@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image:url(https://vignette.wikia.nocookie.net/southpark/images/c/ca/Bus-stop.jpg/revision/latest?cb=20141214163925);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    color:black;
+    margin: 0%;
+    }
+
+    .row {
+        padding:0px 80px;
+    }

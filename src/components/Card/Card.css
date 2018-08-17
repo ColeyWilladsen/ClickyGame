@@ -1,0 +1,12 @@
+.friend-card {
+    width: 140px;
+    height: 170px;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    flex: 100% 100% 100%;
+    margin: 10px;
+    color:black
+  }

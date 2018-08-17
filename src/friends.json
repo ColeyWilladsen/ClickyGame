@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Cartman",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c4/Eric-cartman.png/revision/latest?cb=20180718082504"
+  },
+  {
+    "id": 2,
+    "name": "Stan",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest?cb=20170721155858"
+  },
+  {
+    "id": 3,
+    "name": "Kyle",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest?cb=20170725131924"
+  },
+  {
+    "id": 4,
+    "name": "Kenny",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest?cb=20160409020502"
+  },
+  {
+    "id": 5,
+    "name": "Butters",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/0/06/ButtersStotch.png/revision/latest?cb=20170322004353"
+  },
+  {
+    "id": 6,
+    "name": "President Garrison",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f4/President_Garrison.png/revision/latest?cb=20180210050625"
+  },
+  {
+    "id": 7,
+    "name": "Randy",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f2/Randy_transparent_cockmagic.png/revision/latest?cb=20160402120457"
+  },
+  {
+    "id": 8,
+    "name": "Craig",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c2/Craig-tucker.png/revision/latest?cb=20160402121203"
+  },
+  {
+    "id": 9,
+    "name": "Timmy",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/4/4b/Timmy.png/revision/latest?cb=20171014061716"
+  },
+  {
+    "id": 10,
+    "name": "Token",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/d/d3/Token_Black2.png/revision/latest?cb=20171014061951"
+  },
+  {
+    "id": 11,
+    "name": "Chef",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/3/38/JeromeChef.png/revision/latest?cb=20160402120214"
+  },
+  {
+    "id": 12,
+    "name": "Mr. Hankey",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/b/b4/Mr._Hankey_transparent.png/revision/latest?cb=20171111083719"
+  },
+  {
+    "id": 13,
+    "name": "Santa",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/1/1c/SantaTransparent.png/revision/latest?cb=20170401224020"
+  },
+  {
+    "id": 14,
+    "name": "Gerald",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/3/36/Gerald-broflovski.png/revision/latest?cb=20151101193859"
+  },
+  {
+    "id": 15,
+    "name": "Darryl",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/a/a3/DarrylTransparent.png/revision/latest?cb=20161208053145"
+  }
+]
